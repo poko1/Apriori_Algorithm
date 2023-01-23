@@ -1,0 +1,1 @@
+apriori.exe data10k.txt 0.001 0.8
